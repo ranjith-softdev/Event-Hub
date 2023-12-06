@@ -1,0 +1,8 @@
+.event-navbar {
+  color: white !important;
+}
+.active-link {
+    background-color: azure !important;
+    color: black !important;
+    border-radius: 7px;
+  }
